@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+imagenet-vgg-verydeep-19.mat
+style_transfer/checkpoints/*
